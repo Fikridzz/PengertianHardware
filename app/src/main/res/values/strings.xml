@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Hardware</string>
+
+    <string-array name="nama_hardware">
+        <item>Motherboard</item>
+        <item>CPU</item>
+        <item>RAM</item>
+        <item>Casing</item>
+        <item>Power Supply</item>
+        <item>Fan</item>
+        <item>VGA</item>
+        <item>CPU Coller</item>
+        <item>Internal</item>
+        <item>Ekternal</item>
+
+    </string-array>
+
+    <string-array name="detail_hardwae">
+        <item>Motherboard (atau biasa disebut mainboard, systemboard, logic board, baseboard atau mobo) merupakan sebuah printed circuit board (PCB) yang bertindak sebagai tulang belakang pada sebuah komputer, sebab motherboard menyediakan sebuah konektivitas elektrik yang disebut bus sehingga semua komponen dan perangkat eksternal pada motherboard tersebut dapat terhubung.
+\n
+*Jika Anda mengambil referensi dari artikel ini, mohon kerendahan hatinya untuk mencantumkan link sumber ini: https://www.nesabamedia.com/pengertian-motherboard-dan-fungsi-motherboard/</item>
+        <item>Pengertian CPU dapat kita ketahui secara ringkas dari kepanjangan CPU itu sendiri. CPU merupakan singkatan dari Central Processing Unit atau Pengolah pusat. Secara awam kita sering menyebutnya sebagai processor, karena merupakan pusat pengolahan data dalam sebuah komputer. CPU dapat diibaratkan sebagai sebuah otak dari computer itu sendiri. Cepat atau lambatnya kinerja dari sebuah computer cukup ditentukan oleh kualitas dan teknologi dari CPU yang digunakan.</item>
+        <item>Pengertian RAM (Random Access Memory) adalah suatu hardware di dalam komputer yang berfungsi sebagai tempat penyimpanan data sementara (memori) dan berbagai instruksi program.</item>
+        <item>Casing komputer merupakan kotak atau rumah untuk tempat perangkat-perangkat komputer seperti Processor (CPU), Motherboard, hardiks dan peranti-peranti yang lain. Selain itu casing komputer juga digunakan untuk melindungi perangkat-perangkat yang sangat sensitif seperti motherboard, floppy drive, power supply , hard disk drive dan komponen-komponen lainnya.</item>
+        <item>Power supply adalah suatu perangkat keras pada komputer yang bertugas mengalirkan arus listrik untuk komponen2/hardware pada komputer dengan arus DC ( arus searah ), power supply berbentuk kotak dengan kabel2 yang menjulur keluar dengan diujung2 kabelnya terdapat konektor dan biasanya terletak pada belakang kesing komputer.</item>
+        <item>Sedangkan yang dimaksud dengan fan adalah semua kipas yang terdapat di dalam casing komputer, fan ini ada yang menempel di casing ada juga yang menempel di atas heatsink.</item>
+        <item>“Video Graphics Array” adalah monitor standar untuk mengelola tampilan yang digunakan di sebagian besar PC. VGA memiliki prosessor yang disebut juga dengan GPU (Graphics Processing Unit) yang juga membutuhkan memori. Oleh karena itu, jika monitornya kompatibel dengan VGA, maka komputer ini dapat bekerja dengan komputer lainnya. Standar VFA awalnya dikembangkan oleh IBM pada tahun 1987 dan mengacu pada resolusi layar 640×480 piksel.
+</item>
+        <item>Cooler adalah alat yang bertugas mendinginkan processor atau kompinen lainya di dalam chasing. Cooler bisa berupa kipas angin (fan) ataupun mengunakan prinsip radiator  (liquid). Jika panas komputer tidak direduksi, maka dapat merusakan komponen- komponen elektronika didalamnya. Hal ini tentu merugikan, karena bisa menyebabkan komputer tidak awet dan mudah rusak. Biasanya cooler ini terdapat pada motherboard, cooler processor, chasing berupa fan, VGA berupa fan VGA berupa fan atau liquid.</item>
+        <item>Hardisk Internal adalah hardisk tempat penyimpanan komputer yang terdapat di dalam PC atau Laptop sebagaintempat penyimpanan yang harus ada dalam sebuah PC karena sebuah PC tidak akan berjalan tanpa adanya tempat penyimpanan, seperti OS yang di simpan di dalam sebuah hardisk Internal.</item>
+        <item>Hardisk Eksternal adalah hardisk yang digunakan sebagai hrdisk tambahan atau media penyimpanan tambahan karena apabila hardisk internal penuh maka akan berakibat kompputer menjadi lakbat karena beratnya beban yang ada pada hardisk internal untuk itu, hardisk Eksternal digunakan sebagai media penyimpannan tambahan untuk menghindari masalah pada PC.</item>
+
+    </string-array>
+</resources>
